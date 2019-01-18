@@ -9,10 +9,11 @@ projects. Their product line currently includes:
 * Wifi: Core, Photon, Argon
 * Cellular (2G/3G/LTE): Electron, Boron
 * Mesh (based on IEEE 802.15.4-2006): Xenon, Argon, Boron
-* Bluetooth: RedBear Duo, RedBear Nano, Xenon(**), Argon(**), Boron(**)
-(*) The RedBear product line is still available for sale, but it is unclear
+* Bluetooth: RedBear Duo, RedBear Nano, Xenon(\*\*), Argon(\*\*), Boron(\*\*)
+
+(\*) The RedBear product line is still available for sale, but it is unclear
 whether Particle will continue to develop or support them.
-(**) Particle Mesh devices are capable of supporting BlueTooth 5, but the
+(\*\*) Particle Mesh devices are capable of supporting BlueTooth 5, but the
 software APIs are still under development as of January 2019.
 
 Particle provides many excellent tools for developing software for their
@@ -52,5 +53,5 @@ https://github.com/rickkas7
 ## Contributions Welcome
 If you have suggestions, additions, corrections, complaints, or whatever, 
 please feel free to let me know. Pull Requests welcome. For now, I'm just making this a collection
-of Markdo;2Awn files, but I'm open to suggestions for other organizational 
+of Markdown files, but I'm open to suggestions for other organizational 
 schemes.
