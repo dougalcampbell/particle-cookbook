@@ -49,9 +49,9 @@ particular, unusual use-case.
 
 
 ## Topics
-(Powering Projects)[powering-projects.md]<br/>
-(Sleep Modes)[sleep-modes.md]<br/>
-(System Thread)[system-thread.md]<br/>
+[Powering Projects](powering-projects.md)<br/>
+[Sleep Modes](sleep-modes.md)<br/>
+[System Thread](system-thread.md)<br/>
 
 
 ## See Also:
