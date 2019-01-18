@@ -2,6 +2,7 @@
 A collection of programming snippets, tips, and tricks for developing with 
 Particle IoT devices.
 
+
 ## Background
 The Particle ecosystem of devices along with their Particle Cloud platform
 make it simple for hobbyists and product developers to create connected 
@@ -36,6 +37,7 @@ Sometimes when you have a problem, you aren't even sure what to search for.
 And *sometimes*, you don't even know that a feature exists, because you've
 just never run across it before.
 
+
 ## Purpose
 This Cookbook is an attempt to address this problem by collecting and
 (hopefully) organizing some of these hidden gems so that you don't have to
@@ -45,13 +47,23 @@ in another direction. Or trying to piece together bits of the technically
 excellent firmware documentation into a code example that works for your
 particular, unusual use-case.
 
+
+## Topics
+(Powering Projects)[powering-projects.md]<br/>
+(Sleep Modes)[sleep-modes.md]<br/>
+(System Thread)[system-thread.md]<br/>
+
+
 ## See Also:
 Particle Technical Documentation Writer @rickkas7 has several good tutorials
 and example code in his Github:
 https://github.com/rickkas7
+
 
 ## Contributions Welcome
 If you have suggestions, additions, corrections, complaints, or whatever, 
 please feel free to let me know. Pull Requests welcome. For now, I'm just making this a collection
 of Markdown files, but I'm open to suggestions for other organizational 
 schemes.
+
+
