@@ -13,9 +13,10 @@ USB port.  Also, you probably should not connect anything to the USB port if
 you are supplying power on `VUSB` (though, if you supply power via the USB
 port, you can use the `VUSB` pin to supply 5V power to other peripherals).
 
-*NOTE:* Boron only. Other devices use a different charging circuit. I 
+**NOTE:** Boron only. Other devices use a different charging circuit. I 
 recommend only using Particle's stated maximums for each device, unless
 you confirm for yourself that you can safely exceed those limits.
+
 https://community.particle.io/t/powering-boron-using-12v/46838
 
 ## Power conversion for automative projects
@@ -28,10 +29,14 @@ there are power spikes/dropouts and noise to deal with. It is recommended
 that you use some sort of power conditioning when powering microcontroller
 projects. One such device is this step-down voltage regulator, found on 
 Amazon.com:
+
 https://www.amazon.com/gp/product/B07D4D4Z75/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
 This device can take in up to 24V, protects against over/under voltage, 
 reverse polarization, etc, and outputs clean 5V up to 3A (there is also a
-10A version). This thread on the Arduino forums has some more info:
+10A version). 
+
+For more information, see this thread on the Arduino forums:
+
 http://forum.arduino.cc/index.php?topic=213399.msg1649634#msg1649634
 
