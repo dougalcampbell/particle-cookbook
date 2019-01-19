@@ -1,4 +1,5 @@
 # Powering Projects
+---
 
 ## Powering Boron using 12v
 Though the data sheet for the Boron says that the maximum `Vin` voltage for

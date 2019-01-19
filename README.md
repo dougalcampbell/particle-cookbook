@@ -1,4 +1,5 @@
 # Particle Cookbook
+---
 
 _A collection of programming snippets, tips, and tricks for developing with
 Particle IoT devices._

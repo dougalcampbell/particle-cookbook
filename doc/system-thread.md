@@ -1,4 +1,5 @@
 # System Thread
+---
 
 ## Particle publish and blocking
 This is a very detailed article about using `SYSTEM_THREAD(ENABLED);` (or

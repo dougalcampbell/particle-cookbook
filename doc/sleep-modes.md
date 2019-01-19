@@ -1,4 +1,6 @@
 # Sleep Modes
+---
+
 ## Electron SLEEP_MODE_DEEP tips and examples
 Some information about managing the cellular modem in conjunction with the use
 of `SLEEP_MODE_DEEP`.
