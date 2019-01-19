@@ -19,7 +19,7 @@ you confirm for yourself that you can safely exceed those limits.
 
 <https://community.particle.io/t/powering-boron-using-12v/46838>
 
-## Power conversion for automative projects
+## Power conversion for automotive projects
 Many automotive projects can be powered by simply using a USB converter
 plugged into a power port (formerly known as the cigarette lighter). But
 if one of those ports isn't convenient, you may want to draw power from
