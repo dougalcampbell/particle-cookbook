@@ -14,6 +14,7 @@ projects. Their product line currently includes:
 -   **Cellular** (2G/3G/LTE): Electron, Boron
 
 -   **Mesh** (based on IEEE 802.15.4-2006): Xenon, Argon, Boron
+
 -   **Bluetooth**: RedBear Duo, RedBear Nano, Xenon, Argon, Boron
 
 _The RedBear product line iss still available for sale, but it is unclear
