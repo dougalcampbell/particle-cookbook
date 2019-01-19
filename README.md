@@ -11,13 +11,13 @@ projects. Their product line currently includes:
 
 -   **Wifi**: Core, Photon, Argon
 
--   **Cellular** (2G/3G/LTE): Electron, Boron
+-   **Cellular:** (2G/3G/LTE): Electron, Boron
 
--   **Mesh** (based on IEEE 802.15.4-2006): Xenon, Argon, Boron
+-   **Mesh:** (based on IEEE 802.15.4-2006): Xenon, Argon, Boron
 
--   **Bluetooth**: RedBear Duo, RedBear Nano, Xenon, Argon, Boron
+-   **Bluetooth:**: RedBear Duo, RedBear Nano, Xenon, Argon, Boron
 
-_The RedBear product line iss still available for sale, but it is unclear
+_The RedBear product line is still available for sale, but it is unclear
 whether Particle will continue to develop or support them._
 
 _Particle Mesh devices are capable of supporting Bluetooth 5, but the
