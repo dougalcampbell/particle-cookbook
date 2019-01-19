@@ -40,3 +40,5 @@ reverse polarization, etc, and outputs clean 5V up to 3A (there is also a
 For more information, see this thread on the Arduino forums:
 
 <https://forum.arduino.cc/index.php?topic=213399.msg1649634#msg1649634>
+
+[<- Home](/)
