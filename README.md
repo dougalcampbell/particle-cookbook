@@ -16,7 +16,7 @@ projects. Their product line currently includes:
 
 -   **Mesh:** (based on IEEE 802.15.4-2006): Xenon, Argon, Boron
 
--   **Bluetooth:**: RedBear Duo, RedBear Nano, Xenon, Argon, Boron
+-   **Bluetooth:** RedBear Duo, RedBear Nano, Xenon, Argon, Boron
 
 _The RedBear product line is still available for sale, but it is unclear
 whether Particle will continue to develop or support them._
