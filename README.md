@@ -1,5 +1,6 @@
 # Particle Cookbook
----
+
+* * *
 
 _A collection of programming snippets, tips, and tricks for developing with
 Particle IoT devices._
@@ -59,6 +60,8 @@ particular, unusual use-case.
 
 ## Topics
 
+-   [Data Handling](doc/data-handling.md)
+-   [Mesh](doc/mesh.md)
 -   [Powering Projects](doc/powering-projects.md)
 -   [Sleep Modes](doc/sleep-modes.md)
 -   [System Thread](doc/system-thread.md)
