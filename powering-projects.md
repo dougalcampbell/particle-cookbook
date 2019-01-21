@@ -19,6 +19,7 @@ you confirm for yourself that you can safely exceed those limits.
 
 https://community.particle.io/t/powering-boron-using-12v/46838
 
+
 ## Power conversion for automative projects
 Many automative projects can be powered by simply using a USB converter 
 plugged into a power port (formerly known as the cigarette lighter). But
@@ -39,4 +40,13 @@ reverse polarization, etc, and outputs clean 5V up to 3A (there is also a
 For more information, see this thread on the Arduino forums:
 
 http://forum.arduino.cc/index.php?topic=213399.msg1649634#msg1649634
+
+
+## Vin On Electron and Mesh devices
+When powering Electron or Mesh devices via their onboard LiPo connectors,
+be aware that the `Vin` pin will not supply any power. `Vin` will only
+supply voltage when `VUSB` is powered. 
+
+https://community.particle.io/t/powering-a-5v-device-via-electrons-lipo/45605/2?u=dougal
+
 
