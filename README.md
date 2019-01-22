@@ -101,3 +101,7 @@ Forums](https://community.particle.io/) by countless other selfless
 contributors.  Wherever possible, this Cookbook will link out to original
 source material, to give credit where credit is due.
 
+The original version of this project can be found at:
+
+https://github.com/dougalcampbell/particle-cookbook
+
