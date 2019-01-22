@@ -92,11 +92,12 @@ other organizational schemes (wiki, CMS, category/tag hierarchies, ...).
 ## Credits
 
 The Particle Cookbook was originally created by [Dougal
-Campbell](@dougalcampbell).  [Nathan Robinson](@nrobinson2000) quickly
-jumped in with typo fixes, formatting and organizational improvements, and
-the initial Github Pages implementation.  And of course, this wouldn't have
-happened without the invaluable information shared on the Particle Community
-Forums by countless other selfless contributors.  Wherever possible, this
-Cookbook will link out to original source material, to give credit where
-credit is due.
+Campbell](@dougalcampbell).  Fellow community member [Nathan
+Robinson](@nrobinson2000) quickly jumped in with typo fixes, formatting and
+organizational improvements, and the initial Github Pages implementation. 
+And of course, this project wouldn't have happened without the invaluable
+information shared on the [Particle Community
+Forums](https://community.particle.io/) by countless other selfless
+contributors.  Wherever possible, this Cookbook will link out to original
+source material, to give credit where credit is due.
 
