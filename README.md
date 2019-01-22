@@ -57,10 +57,10 @@ particular, unusual use-case.
 
 
 ## See Also:
-Particle Technical Documentation Writer @rickkas7 has several good tutorials
-and example code in his Github:
-https://github.com/rickkas7
+[github.com/rickkas7](https://github.com/rickkas7) Particle Technical Documentation Writer @rickkas7 has several good tutorials
+and example code in his Github.
 
+[Awesome Particle](https://github.com/particle-iot/awesome-particle) is a curated list of awesome things related to Particle.
 
 ## Contributions Welcome
 If you have suggestions, additions, corrections, complaints, or whatever, 
