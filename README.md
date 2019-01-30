@@ -72,6 +72,7 @@ particular, unusual use-case.
 
 -   [Data Handling](doc/data-handling.md)
 -   [Mesh](doc/mesh.md)
+-   [Particle Workbench](doc/workbench.md)
 -   [Powering Projects](doc/powering-projects.md)
 -   [Sleep Modes](doc/sleep-modes.md)
 -   [System Thread](doc/system-thread.md)
