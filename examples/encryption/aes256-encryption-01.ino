@@ -1,6 +1,7 @@
 /**
  * Using AES256 encryption/decryption
  *
+ * @author @hirotakaster
  * @see https://community.particle.io/t/aes-256-options/47437
  */
 #include "TlsTcpClient.h"
