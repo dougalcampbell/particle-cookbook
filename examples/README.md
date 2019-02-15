@@ -15,4 +15,4 @@ linked both from `powering-projects` and `sleep-modes`, you might create a
 file named `examples/sleep-modes/electron-deep-sleep-01.ino`
 
 ---
-[&lt;- Home](/particle-cookbook)
+[<- Home](/particle-cookbook)

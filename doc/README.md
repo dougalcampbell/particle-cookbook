@@ -9,4 +9,4 @@
 
 * * *
 
-[&lt;- Home](/particle-cookbook)
+[<- Home](/particle-cookbook)

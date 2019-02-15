@@ -47,7 +47,22 @@ When powering Electron or Mesh devices via their onboard LiPo connectors,
 be aware that the `Vin` pin will not supply any power. `Vin` will only
 supply voltage when `VUSB` is powered. 
 
-https://community.particle.io/t/powering-a-5v-device-via-electrons-lipo/45605/2?u=dougal
+<https://community.particle.io/t/powering-a-5v-device-via-electrons-lipo/45605/2>
+
+
+## Detecting Vin, Battery, and Battery Status
+The Electron and the Mesh devices (Argon, Boron, Xenon) can all be powered
+by a 3.7V LiPo battery.  Often, it is useful for a device to know whether it
+is running on battery power or not, and what the charge status of the
+battery is.  The Electron and Boron boards both have an advanced Power
+Management chip built in which can report details on the battery status,
+while the Argon and Xenon do not, and can only report back a simple battery
+voltage level. This can still be useful, as you can read that value, and 
+have your device send alerts or shut itself down if the battery reaches a
+critically low level (general wisdom is don't go lower than about 3.2V).
+
+[Example Code for Electron and Boron](/examples/power/get-power-status-electron-boron-01.ino)
+[Example Code for Argon and Xenon](/examples/power/get-power-status-electron-boron-01.ino)
 
 
 ---
