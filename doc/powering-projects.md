@@ -61,8 +61,8 @@ voltage level. This can still be useful, as you can read that value, and
 have your device send alerts or shut itself down if the battery reaches a
 critically low level (general wisdom is don't go lower than about 3.2V).
 
-[Example Code for Electron and Boron](/examples/power/get-power-status-electron-boron-01.ino)
-[Example Code for Argon and Xenon](/examples/power/get-power-status-electron-boron-01.ino)
+* [Example Code for Electron and Boron](/particle-cookbook/examples/power/get-power-status-electron-boron-01.ino)
+* [Example Code for Argon and Xenon](/particle-cookbook/examples/power/get-power-status-electron-boron-01.ino)
 
 
 ---
