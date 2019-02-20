@@ -70,4 +70,4 @@ empty pin list and trigger:
     
 
 ---
-[<- Home](..)
+[<- Home](/particle-cookbook/)
