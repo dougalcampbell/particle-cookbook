@@ -55,5 +55,19 @@ up from a sleep state.
 
 <https://community.particle.io/t/choosing-an-electron-sleep-mode/41822>
 
+
+## STOP Mode Sleep Without Using a Pin
+The syntax for using STOP Mode sleep requires a pin, and trigger mode, in
+addition to the sleep time.  Your device will wake if either the pin is
+activated _or_ the time expires. But what if you you don't want to wake
+on a pin signal, or you don't have any pins available? You can use an
+empty pin list and trigger:
+
+    // STOP sleep for 60 seconds, no pin monitored:
+    // Hat tip: @ScruffR
+    // @see https://community.particle.io/t/gen3-sleep-sleep-for-time-only/47886/6
+    System.sleep( {}, {}, 60 );
+    
+
 ---
-[<- Home](/particle-cookbook)
+[<- Home](..)
