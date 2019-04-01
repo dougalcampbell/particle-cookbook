@@ -67,7 +67,12 @@ empty pin list and trigger:
     // Hat tip: @ScruffR
     // @see https://community.particle.io/t/gen3-sleep-sleep-for-time-only/47886/6
     System.sleep( {}, {}, 60 );
-    
+
+
+## Maximum Sleep Time
+The maximum sleep time for Mesh devices is roughly 24 days, using STOP mode.
+For DEEP_SLEEP or STANDBY mode, an external RealTime Clock is required.
+
 
 ---
 [<- Home](/particle-cookbook/)
