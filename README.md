@@ -71,6 +71,7 @@ particular, unusual use-case.
 ## Topics
 
 -   [Data Handling](doc/data-handling.md)
+-   [Local Mesh Device Setup](local-device-setup.md)
 -   [Mesh](doc/mesh.md)
 -   [Particle Workbench](doc/workbench.md)
 -   [Powering Projects](doc/powering-projects.md)
